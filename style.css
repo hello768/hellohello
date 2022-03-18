@@ -1,0 +1,19 @@
+*{background-color:orange;}
+.h{object-fit: fill;
+    width:80%;
+    border-radius:3%;
+}
+#webpage{display:flex;
+align-items:center}
+.immg{display:flex;
+    justify-content:center;}
+    .immg2{display:flex;
+        justify-content:center;}
+        .immg3{display:flex;
+            justify-content:center;}
+            .p1{display:flex;
+                justify-content:center;
+            font-size:3vh;}
+            .p3{
+                display:flex;
+                justify-content:center;font-size:5vh;}
